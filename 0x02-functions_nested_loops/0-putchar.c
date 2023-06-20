@@ -3,16 +3,17 @@
  * main - Entry point
  * Return: Always 0
  */
+
 int main(void)
 {
-	Putchar('_');
-	Putchar('p');
-	Putchar('u');
-	Putchar('t');
-	Putchar('c');
-	Putchar('h');
-	Putchar('a');
-	Putchar('r');
-	Putchar('\n');
-	return (0)
+	_Putchar('_');
+	_Putchar('p');
+	_Putchar('u');
+	_Putchar('t');
+	_Putchar('c');
+	_Putchar('h');
+	_Putchar('a');
+	_Putchar('r');
+	_Putchar('\n');
+	return (0);
 }
